@@ -1,6 +1,6 @@
-#The majority of this code was taken from https://github.com/craigsdennis/intro-to-apis-flask
+Credit for boiler code: https://github.com/craigsdennis/intro-to-apis-flask  
 
-This repository is simply meant to show the implimentation of the get_sent_messages() and the send_message() which involves in calling the twilio message API.
+This repository is meant to demonstrate the implementation of the twilio message API which allows the user to send SMS messages to verified numbers and retrieve message logs.
 
 # Example Application - Complimentr
 
